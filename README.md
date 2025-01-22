@@ -1,0 +1,1 @@
+# Impact-score-generator-for-stocks-and-crypto
